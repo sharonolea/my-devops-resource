@@ -1,5 +1,3 @@
-![logo](logo.jpg)
-
 
 ## What is DevOps
 - [What is Devops](https://www.youtube.com/watch?v=Xrgk023l4lI)
